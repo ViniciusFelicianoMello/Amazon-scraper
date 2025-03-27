@@ -2,7 +2,7 @@
   
   <h1>Amazon scraper</h1>
 </div>
-
+ 
 <details> 🔗Content
    <ol>
       <a href="#tecs">Tecnologies</a>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Vue-42b883??&style=for-the-badge&logo=vuejs&logoColor=white">
 </div>
 
-<h2 id="about">🔍 Sobre</h2>
+<h2 id="about">🔍 About</h2>
 <img src="assets/background.png" alt="backgorund" width="auto" height="auto">
 
 <p>Projeto realizado para portfólio próprio, onde me apresento e mostro mais dos meus conhecimentos<p>
