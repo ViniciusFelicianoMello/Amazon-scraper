@@ -30,25 +30,19 @@
 
 <p align="right"><a href="#home">⬆️</a></p>
 
-<h2 id="howto">⚒ Como usar</h2>
+<h2 id="howto">⚒ How to use</h2>
 
-<p>Projeto com diversas interações e animações para deixar uma ótima experiência!.</p>
+<p>Simple project with input to perform search!.</p>
 
 <ul>
-  <li>★ No cabeçalho, escolha a seção que deseja visualizar, ou se deseja Dark mode ativado</li>
-  <li>★ Na home, pode clicar no Curriculo para visualizar outra pagina, também tem links para Github, Linkedin e Instagram</li>
-  <li>★ Em Sobre mim, pode ver informçaões sobre minha tagetória até aqui no slider, e sobre mim</li>
-  <li>★ Nas habilidades, apenas clique no titulo que deseja ver ou desver as Tecnologias que tenho conhecimento em usar</li>
-  <li>★ Nos serviços, basta clicar no card que deseja ver mais informações sobre o que eu sei fazer na area em especifico</li>
-  <li>★ Em projetos, basta passar o mouse por cima para visualizar mais informações sobre aquele projeto, com links para o website e/ou para o repositório</li>
-  <li>★ Em contate-me, basta clicar no botao do meu numero que sera redirecionado para uma conversa comigo, ou enviar um email atraz do formulário</li>
-  <li>★ No rodapé, é possivel ver links para as seções, mais projetos e redes sociais</li>
-
+  <li>★ In the terminal, navigate to the backend folder and use the command bun run index.ts to run the backend</li>
+  <li>★ In another terminal window, go to the frontend folder and run the command npm run dev to open the page</li>
+  <li>★ On the page, simply type the name of the product you want to search for and click the search button.</li>
 </ul>
 
 <p align="right"><a href="#home">⬆️</a></p>
 
-<h2 id="author">👨🏽‍💼 Autor</h2>
+<h2 id="author">👨🏽‍💼 Author</h2>
 
 <p>Vinicius Feliciano Mello - viniciusfelicianomello@hotmail.com</p>
 <ul>
