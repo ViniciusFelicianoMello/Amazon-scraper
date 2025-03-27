@@ -24,11 +24,9 @@
 <h2 id="about">🔍 About</h2>
 <img src="assets/background.png" alt="backgorund" width="auto" height="auto">
 
-<p>Projeto realizado para portfólio próprio, onde me apresento e mostro mais dos meus conhecimentos<p>
-<p>O projeto consiste em uma página dedicada a mim e às minhas habilidades. Nela, apresento várias informações e seções, incluindo uma biografia, uma descrição detalhada das minhas competências, os serviços que ofereço, exemplos de projetos realizados, uma seção para contato e um rodapé informativo. O site é enriquecido com diversas animações em CSS e interações dinâmicas com JavaScript, proporcionando uma experiência envolvente e interativa para os visitantes.<p>
-<p>Este projeto foi uma excelente oportunidade para praticar e aprimorar minhas habilidades em JavaScript, já que é meu primeiro projeto desse estilo. O site possui diversas animações e interações, incluindo animações em botões, imagens, textos e projetos. Também implementei um modo escuro (dark mode), um slider, menus dropdown, manipulação de modais e um formulário de email integrado com o Formsubmit, que redireciona para uma página de agradecimento (thankspage). Além disso, o site conta com botões de links diretos para meu currículo, LinkedIn, GitHub, Instagram e uma opção de conversa no WhatsApp, proporcionando uma experiência de usuário dinâmica e envolvente. Espero que aproveite a visita!.</p>
-
-<a href="https://portifolio-vinicius-mello.vercel.app/">Link do projeto</a>
+<p>Project carried out as a test task<p>
+<p>The project is a web scraper page for Amazon. Upon accessing the page, users can search for information about products available on Amazon. The page features a header with a search input field and a search button. When a product name available on Amazon is entered, all relevant results will be displayed in a section below the header.<p>
+<p>The project had a medium level of difficulty. It was the first time I heard about Bun, and after doing some research and learning new things, I was able to complete the project.</p>
 
 <p align="right"><a href="#home">⬆️</a></p>
 
