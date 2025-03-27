@@ -3,19 +3,19 @@
     <img src="assets/VM.png" alt="Logo" width="80" height="80">
   </a>
   
-  <h1>Portfólio</h1>
+  <h1>Amazon scraper</h1>
 </div>
 
-<details> 🔗Conteudo
+<details> 🔗Content
    <ol>
-      <a href="#tecs">Tecnologias</a>
-      <a href="#about">Sobre</a>
-      <a href="#howto">Como Usar</a>
-      <a href="#author">Autor</a>
+      <a href="#tecs">Tecnologies</a>
+      <a href="#about">About</a>
+      <a href="#howto">how to use</a>
+      <a href="#author">Author</a>
    </ol>
 </details>
 
-<h2 id="tecs">💻 Tecnologias</h2>
+<h2 id="tecs">💻 Tecnologies</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-FFAA00?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-008BFF?&style=for-the-badge&logo=css3&logoColor=white">
